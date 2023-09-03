@@ -24,4 +24,4 @@ function repeatNumbers(arr){
 }
 console.log(repeatNumbers([1,2,4,5,5,7,6,2]));   
 console.log(repeatNumbers([1,2,2,5,5,5,7,6]));   
-console.log(repeatNumbers([1,2,4,5,7,6]));   
+console.log(repeatNumbers([1,2,4,5,7,6]));  
